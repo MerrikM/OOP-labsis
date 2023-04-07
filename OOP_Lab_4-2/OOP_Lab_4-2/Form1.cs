@@ -30,11 +30,6 @@ namespace OOP_Lab_4_2
                                                                       // При обновлении формы вызывается метод UodateFromModel
         }
 
-        private void Application_ApplicationExit(object sender, EventArgs e)
-        {
-            model.saveSettings();
-        }
-
         private void numericUpDownA_ValueChanged(object sender, EventArgs e)
         {
             // Передаем визуальные значения в модель
