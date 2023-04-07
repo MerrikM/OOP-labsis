@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C++ Project\\OOP_Lab_4-2\\OOP_Lab_4-2\\OOP_Lab_4_2.csproj",
-      "projectName": "OOP_Lab_4_2",
-      "projectPath": "D:\\C++ Project\\OOP_Lab_4-2\\OOP_Lab_4-2\\OOP_Lab_4_2.csproj",
+      "projectUniqueName": "D:\\C++ Project\\OOP_Lab_4-2\\OOP_Lab_4-2\\OOP_Lab_4-2.csproj",
+      "projectName": "OOP_Lab_4-2",
+      "projectPath": "D:\\C++ Project\\OOP_Lab_4-2\\OOP_Lab_4-2\\OOP_Lab_4-2.csproj",
       "packagesPath": "C:\\Users\\merri\\.nuget\\packages\\",
       "outputPath": "D:\\C++ Project\\OOP_Lab_4-2\\OOP_Lab_4-2\\obj\\",
       "projectStyle": "PackageReference",
