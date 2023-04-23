@@ -1,3 +1,4 @@
 ﻿  OOP_Lab3.cpp
-D:\C and C++ Project\OOP_Lab3\OOP_Lab3\OOP_Lab3.cpp(155): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+D:\C and C++ Project\OOP_Lab3\OOP_Lab3\OOP_Lab3.cpp(314,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C and C++ Project\OOP_Lab3\OOP_Lab3\OOP_Lab3.cpp(371,13): warning C4129: T: неизвестная escape-последовательность
   OOP_Lab3.vcxproj -> D:\C and C++ Project\OOP_Lab3\Debug\OOP_Lab3.exe
