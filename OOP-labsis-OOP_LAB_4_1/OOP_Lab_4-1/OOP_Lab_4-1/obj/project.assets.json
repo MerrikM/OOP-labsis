@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C++ Project\\OOP_Lab_4-1\\OOP_Lab_4-1\\OOP_Lab_4-1.csproj",
+      "projectUniqueName": "C:\\Users\\merri\\OneDrive\\Рабочий стол\\OOP-labsis-OOP_LAB_4_1\\OOP_Lab_4-1\\OOP_Lab_4-1\\OOP_Lab_4-1.csproj",
       "projectName": "OOP_Lab_4-1",
-      "projectPath": "D:\\C++ Project\\OOP_Lab_4-1\\OOP_Lab_4-1\\OOP_Lab_4-1.csproj",
+      "projectPath": "C:\\Users\\merri\\OneDrive\\Рабочий стол\\OOP-labsis-OOP_LAB_4_1\\OOP_Lab_4-1\\OOP_Lab_4-1\\OOP_Lab_4-1.csproj",
       "packagesPath": "C:\\Users\\merri\\.nuget\\packages\\",
-      "outputPath": "D:\\C++ Project\\OOP_Lab_4-1\\OOP_Lab_4-1\\obj\\",
+      "outputPath": "C:\\Users\\merri\\OneDrive\\Рабочий стол\\OOP-labsis-OOP_LAB_4_1\\OOP_Lab_4-1\\OOP_Lab_4-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

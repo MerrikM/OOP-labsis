@@ -44,7 +44,7 @@ namespace OOP_Lab_4_1
             {
                 foreach (CCircle Circle1 in Circles)
                 {
-                    Circle1.setColor("Black");
+                    Circle1.setColor("Black"); // Снимаем выделение со всех объектов 
                 }
                 CCircle Circle = new CCircle(e.X, e.Y, radius);
                 Circles.Add(Circle);
@@ -53,8 +53,9 @@ namespace OOP_Lab_4_1
             {
                 foreach (CCircle Circle1 in Circles)
                 {
-                    if (Circle1.mouseinCircle(e) == true && checkBox2.Checked == true) 
+                    if (Circle1.mouseinCircle(e) == true) 
                     {
+                        checkBox2.Checked = true;
                         break;
                     }
                 }
@@ -97,6 +98,7 @@ namespace OOP_Lab_4_1
                 {
                     Circles.RemoveAt(i);
                     i--;
+                    checkBox2.Checked = false;
                 }
             }
             Refresh();
