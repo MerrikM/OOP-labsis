@@ -1,0 +1,22 @@
+3
+Group
+False
+2
+Circle
+381 408 40 -16777216 False 1395 654 
+Circle
+433 222 40 -16777216 False 1395 654 
+Group
+False
+2
+Circle
+988 410 40 -16777216 False 1395 654 
+Circle
+918 220 40 -16777216 False 1395 654 
+Group
+False
+2
+Circle
+659 389 40 -16777216 False 1395 654 
+Circle
+625 185 40 -16777216 False 1395 654 

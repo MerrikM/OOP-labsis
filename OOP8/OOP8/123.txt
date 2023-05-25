@@ -1,0 +1,15 @@
+1
+Group
+True
+3
+Group
+False
+2
+Circle
+371 399 40 -16777216 False 1395 654 
+Circle
+394 159 40 -16777216 False 1395 654 
+Circle
+877 411 40 -16777216 False 1395 654 
+Circle
+928 215 40 -16777216 False 1395 654 

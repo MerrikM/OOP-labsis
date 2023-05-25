@@ -1,0 +1,42 @@
+B:\proj\visualka\OOP8\bin\Debug\OOP8.exe.config
+B:\proj\visualka\OOP8\bin\Debug\OOP8.exe
+B:\proj\visualka\OOP8\bin\Debug\OOP8.pdb
+B:\proj\visualka\OOP8\obj\Debug\OOP8.csproj.AssemblyReference.cache
+B:\proj\visualka\OOP8\obj\Debug\OOP8.csproj.SuggestedBindingRedirects.cache
+B:\proj\visualka\OOP8\obj\Debug\OOP8.Properties.Resources.resources
+B:\proj\visualka\OOP8\obj\Debug\OOP8.csproj.GenerateResource.cache
+B:\proj\visualka\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+B:\proj\visualka\OOP8\obj\Debug\OOP8.exe
+B:\proj\visualka\OOP8\obj\Debug\OOP8.pdb
+B:\proj\visualka\OOP8\obj\Debug\OOP8.Form.resources
+C:\Users\neket\Desktop\projects\visual\OOP8\bin\Debug\OOP8.exe.config
+C:\Users\neket\Desktop\projects\visual\OOP8\bin\Debug\OOP8.exe
+C:\Users\neket\Desktop\projects\visual\OOP8\bin\Debug\OOP8.pdb
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.csproj.AssemblyReference.cache
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.csproj.SuggestedBindingRedirects.cache
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.Form.resources
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.Properties.Resources.resources
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.csproj.GenerateResource.cache
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.exe
+C:\Users\neket\Desktop\projects\visual\OOP8\obj\Debug\OOP8.pdb
+D:\Tyush guide\OOP8\bin\Debug\OOP8.exe.config
+D:\Tyush guide\OOP8\bin\Debug\OOP8.exe
+D:\Tyush guide\OOP8\bin\Debug\OOP8.pdb
+D:\Tyush guide\OOP8\obj\Debug\OOP8.csproj.AssemblyReference.cache
+D:\Tyush guide\OOP8\obj\Debug\OOP8.Form.resources
+D:\Tyush guide\OOP8\obj\Debug\OOP8.Properties.Resources.resources
+D:\Tyush guide\OOP8\obj\Debug\OOP8.csproj.GenerateResource.cache
+D:\Tyush guide\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+D:\Tyush guide\OOP8\obj\Debug\OOP8.exe
+D:\Tyush guide\OOP8\obj\Debug\OOP8.pdb
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\bin\Debug\OOP8.exe.config
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\bin\Debug\OOP8.exe
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\bin\Debug\OOP8.pdb
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\obj\Debug\OOP8.csproj.AssemblyReference.cache
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\obj\Debug\OOP8.Form.resources
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\obj\Debug\OOP8.Properties.Resources.resources
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\obj\Debug\OOP8.csproj.GenerateResource.cache
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\obj\Debug\OOP8.exe
+C:\Users\merri\OneDrive\Рабочий стол\OOP8\obj\Debug\OOP8.pdb
