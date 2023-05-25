@@ -1,0 +1,4 @@
+﻿  OOP_Lab_5.cpp
+C:\Users\merri\OneDrive\Рабочий стол\OOP_Lab_5\OOP_Lab_5\BaseDesc.h(97): warning C4172: возвращение адреса локальной или временной переменной : b
+C:\Users\merri\OneDrive\Рабочий стол\OOP_Lab_5\OOP_Lab_5\BaseDesc.h(109): warning C4172: возвращение адреса локальной или временной переменной : b
+  OOP_Lab_5.vcxproj -> C:\Users\merri\OneDrive\Рабочий стол\OOP_Lab_5\Debug\OOP_Lab_5.exe
